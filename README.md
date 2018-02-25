@@ -1,2 +1,5 @@
 # Random-Icon-Generator
-Randomly create icons
+
+Random generator for creating geometric profile icons.
+
+
