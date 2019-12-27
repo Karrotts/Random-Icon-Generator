@@ -1,7 +1,0 @@
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\bin\Debug\IGCMD.exe.config
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\bin\Debug\IGCMD.exe
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\bin\Debug\IGCMD.pdb
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\obj\Debug\IGCMD.csproj.CoreCompileInputs.cache
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\obj\Debug\IGCMD.exe
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\obj\Debug\IGCMD.pdb
-C:\Users\Wes\Desktop\C#proj\IGCMD\IGCMD\obj\Debug\IGCMD.csprojResolveAssemblyReference.cache
