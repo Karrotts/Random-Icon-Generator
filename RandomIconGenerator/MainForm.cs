@@ -11,6 +11,11 @@ namespace RandomIconGenerator
         public MainForm()
         {
             InitializeComponent();
+
+            //Generate initial image
+            pb.Image = iconGenerator.Generate(b_block_size.Value,
+                                              b_color_variance.Value,
+                                              b_place_chance.Value);
         }
 
         /// <summary>

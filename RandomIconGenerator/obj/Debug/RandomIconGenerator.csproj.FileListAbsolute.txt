@@ -7,3 +7,13 @@ C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Genera
 C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\RandomIconGenerator\RandomIconGenerator\obj\Debug\RandomIconGenerator.csproj.CoreCompileInputs.cache
 C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\RandomIconGenerator\RandomIconGenerator\obj\Debug\RandomIconGenerator.exe
 C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\RandomIconGenerator\RandomIconGenerator\obj\Debug\RandomIconGenerator.pdb
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\bin\Debug\RandomIconGenerator.exe.config
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\bin\Debug\RandomIconGenerator.exe
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\bin\Debug\RandomIconGenerator.pdb
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.csprojAssemblyReference.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.Properties.Resources.resources
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.csproj.GenerateResource.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.exe
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.pdb
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\Random Icon Generator\Random-Icon-Generator\RandomIconGenerator\obj\Debug\RandomIconGenerator.MainForm.resources
